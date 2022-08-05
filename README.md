@@ -1,2 +1,2 @@
 
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=DoCarmoD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true](https://github.com/DoCarmoD/Monitorando-Criptomoedas/issues/1#issue-1329399732)"/>
+<img align="center"  height="300" width="300" src="[https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://user-images.githubusercontent.com/98768795/182995597-7dc9e645-123e-4547-be48-3beaad14de37.png)"> 
