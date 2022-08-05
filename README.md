@@ -99,7 +99,7 @@
     <img src="https://user-images.githubusercontent.com/98768795/183092337-6baefa1f-c70a-4fac-ba00-b64757f9d131.png"> </img>
     <img src="https://user-images.githubusercontent.com/98768795/183092393-e494d140-7062-4162-9029-9c5ce4baaa54.png"> </img>
 
-    OBS: Cada Item usará um Parâmetro diferente para o pré-processamento, escolha a chave de acordo com a informação desejada, o template está disponível para download
+   <p>OBS: Cada Item usará um Parâmetro diferente para o pré-processamento, escolha a chave de acordo com a informação desejada, o template está disponível para download.</p>
    </div> 
 
    
